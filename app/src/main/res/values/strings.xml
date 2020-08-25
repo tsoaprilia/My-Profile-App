@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Profile App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Register">Registrasi</string>
+    <string name="Name">Nama</string>
+    <string name="Email">Email</string>
+    <string name="NumberPhone">Telp</string>
+    <string name="Address">Alamat</string>
+    <string name="Save">Simpan</string>
+    <string name="Gender">Gender</string>
+    <string name="titikdua">:</string>
+    <string-array name="gender_list">
+        <item>Pilih kelamin</item>
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
